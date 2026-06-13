@@ -4,7 +4,7 @@ const path = require('path');
 const app = express();
 
 // set the view engine as ejs
-app.set('view engine','ejs')
+app.set('view engine','ejs');
 
 
 // set the directory for the views
