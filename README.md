@@ -21,7 +21,3 @@ This repository contains a structured series of tutorials and projects covering 
 
 ## Getting Started
 
-To explore a specific module, navigate to its respective folder. You may need to run the following in each project directory to install dependencies:
-
-```bash
-npm install
