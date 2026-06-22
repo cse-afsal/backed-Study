@@ -19,5 +19,4 @@ This repository contains a structured series of tutorials and projects covering 
 7. **[Node.js Authentication](./7.Nodejs-auth)**
    - Implementing user authentication and authorization (e.g., using JWT or sessions) in Node.js applications.
 
-## Getting Started
 
