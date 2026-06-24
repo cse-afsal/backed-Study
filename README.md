@@ -1,6 +1,6 @@
 # Node.js Backend Learning Journey
 
-This repository contains a structured series of tutorials and projects covering backend development with Node.js, Express, MongoDB, and more.
+This repository contains a structured series of tutorials and projects covering backend development with Node.js, Express, MongoDB, and more .
 
 ## Course Structure
 
