@@ -13,4 +13,4 @@ const connectToDB = async () => {
     }
 };
 
-module.exports = connectToDB;
+module.exports = connectToDB ; // last line of code 
